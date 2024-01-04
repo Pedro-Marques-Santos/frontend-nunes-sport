@@ -45,6 +45,6 @@ npm run build
 - Demonstrando erro ao tentar utilizar um código com uma quantidade inadequada de caracteres.
 ![image](https://github.com/Pedro-Marques-Santos/frontend-nunes-sport/assets/104912054/9f1316d0-9a25-4730-be8f-4d3b2408c581)
 
-- Apresentação do Modal que editar ou exclui o produto.
+- Apresentação do Modal que edita ou exclui o produto.
 ![image](https://github.com/Pedro-Marques-Santos/frontend-nunes-sport/assets/104912054/c36f3082-8f14-49e3-937f-c05406a2e3eb)
 
